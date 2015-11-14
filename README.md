@@ -5,5 +5,5 @@ This project was first developed as training during my bachelor thesis. It consi
 which plots the I-V characterstic of a battery or any voltage source.
 
 V1.0
-- microcontroller -> Aurduino UNO
+- microcontroller -> Arduino UNO
 - Voltage range   -> 0 - 5V
